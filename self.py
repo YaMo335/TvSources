@@ -1,6 +1,6 @@
 import requests
 
-url = "https://ghproxy.net/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt"
+url = "https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt"
 
 r = requests.get(url)
 r.encoding = "utf-8"
