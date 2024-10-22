@@ -90,6 +90,8 @@ CCTV女性时尚频道,http://111.61.236.247:9081/hls/59/index.m3u8
 青州电视台新闻综合频道,http://sdqz.chinashadt.com:2036/live/stream:1.stream/playlist.m3u8
 青州电视台生活频道,http://sdqz.chinashadt.com:2036/live/stream:2.stream/playlist.m3u8
 青州电视台文化旅游频道,http://sdqz.chinashadt.com:2036/live/stream:3.stream/playlist.m3u8
+济宁新闻综合频道,http://lives.jnnews.tv/video/s10001-JNTV-1/index.m3u8
+济宁公共频道,http://lives.jnnews.tv/video/s10001-JNTV3/index.m3u8
 烟台公共频道,http://live.yantaitv.cn/live/e50f104a4ffe4a41b2217cbda534146f/d86092e69df94668b33390278b061700-1.m3u8
 烟台影视频道,http://live.yantaitv.cn/live/e9f1d9045d474c31884d13fa4ffbbd16/a4a9b3704d854756907845107cc56129-1.m3u8
 威海一套新闻综合频道,http://l1.weihai.tv:8081/hls/969O76hb22.m3u8
@@ -192,6 +194,7 @@ CCTV女性时尚频道,http://111.61.236.247:9081/hls/59/index.m3u8
 保定三套,http://live.bdgdw.com/channel3/playlist.m3u8?_upt=6d59246b1725350917
 延边卫视,http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8
 贺州电视台综合频道,http://zhz.gxhzxw.com:2935/live/HZXW-HD/playlist.m3u8
+梧州新闻综合频道,http://live.wzrtv.cn:80/xwzh1/sd/live.m3u8
 梧州公共频道,http://live.wzrtv.cn:80/ggpd1/sd/live.m3u8
 梧州教育生活频道,http://live.wzrtv.cn:80/jysh1/sd/live.m3u8
 优购物电视购物,https://tvlive.ugoshop.com/ugotvlive/ugotv01.m3u8?auth_key=2312509421-0-0-f8f7e886fe98ee0a0c01458710bf26d3
