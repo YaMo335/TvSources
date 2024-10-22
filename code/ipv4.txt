@@ -14,10 +14,6 @@ CCTV女性时尚频道,http://111.61.236.247:9081/hls/59/index.m3u8
 梅州二套公共频道,http://pili-live-hls.xianchangliving.gdmztv.com/meizhou-xianchangliving/mztv2.m3u8
 河源综合频道,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
 河源公共频道,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
-苏州新闻综合频道,http://tylive.kan0512.com/norecord/norecord_csztv1.m3u8
-苏州社会经济频道,http://tylive.kan0512.com/norecord/norecord_csztv2.m3u8
-苏州文化生活频道,http://tylive.kan0512.com/norecord/norecord_csztv3.m3u8
-苏州生活资讯频道,http://tylive.kan0512.com/norecord/norecord_csztv5.m3u8
 连云港公共频道,http://live.lyg1.com/ggpd/sd/live.m3u8
 泰州一套新闻综合频道,http://stream1.mytaizhou.net/xwzh/playlist.m3u8?_upt=2f3c2e461725409415
 泰州二套经济生活频道,http://stream1.mytaizhou.net/jjsh/playlist.m3u8?_upt=432935711725402444
@@ -26,7 +22,6 @@ CCTV女性时尚频道,http://111.61.236.247:9081/hls/59/index.m3u8
 扬州城市频道,http://cm-wshls.homecdn.com/live/8bd.m3u8
 扬州生活频道,http://cm-wshls.homecdn.com/live/8bf.m3u8
 扬州邗江频道,http://cm-wshls.homecdn.com/live/8c3.m3u8
-镇江新闻综合频道,http://cm-wshls.homecdn.com/live/2aa50.m3u8
 镇江二套社会民生频道,http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
 安徽影视频道,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8
 安徽经济生活频道,http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959/hls.m3u8
@@ -51,7 +46,6 @@ CCTV女性时尚频道,http://111.61.236.247:9081/hls/59/index.m3u8
 萧山生活频道,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
 余杭新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8
 余杭未来频道,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8
-临平新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXyuhang2/720p.m3u8
 象山电视台新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
 余姚新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
 余姚姚江文化频道,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
@@ -75,11 +69,9 @@ CCTV女性时尚频道,http://111.61.236.247:9081/hls/59/index.m3u8
 开化新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXkaihua1/720p.m3u8
 开化国家公园频道,http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8
 衢江新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8
-平湖新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8
 平湖民生休闲频道,http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8
 青田电视台,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
 遂昌新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8
-松阳新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8
 庆元新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8
 缙云新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8
 龙泉新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
@@ -90,8 +82,6 @@ CCTV女性时尚频道,http://111.61.236.247:9081/hls/59/index.m3u8
 青州电视台新闻综合频道,http://sdqz.chinashadt.com:2036/live/stream:1.stream/playlist.m3u8
 青州电视台生活频道,http://sdqz.chinashadt.com:2036/live/stream:2.stream/playlist.m3u8
 青州电视台文化旅游频道,http://sdqz.chinashadt.com:2036/live/stream:3.stream/playlist.m3u8
-济宁新闻综合频道,http://lives.jnnews.tv/video/s10001-JNTV-1/index.m3u8
-济宁公共频道,http://lives.jnnews.tv/video/s10001-JNTV3/index.m3u8
 烟台公共频道,http://live.yantaitv.cn/live/e50f104a4ffe4a41b2217cbda534146f/d86092e69df94668b33390278b061700-1.m3u8
 烟台影视频道,http://live.yantaitv.cn/live/e9f1d9045d474c31884d13fa4ffbbd16/a4a9b3704d854756907845107cc56129-1.m3u8
 威海一套新闻综合频道,http://l1.weihai.tv:8081/hls/969O76hb22.m3u8
@@ -197,7 +187,6 @@ CCTV女性时尚频道,http://111.61.236.247:9081/hls/59/index.m3u8
 梧州新闻综合频道,http://live.wzrtv.cn:80/xwzh1/sd/live.m3u8
 梧州公共频道,http://live.wzrtv.cn:80/ggpd1/sd/live.m3u8
 梧州教育生活频道,http://live.wzrtv.cn:80/jysh1/sd/live.m3u8
-优购物电视购物,https://tvlive.ugoshop.com/ugotvlive/ugotv01.m3u8?auth_key=2312509421-0-0-f8f7e886fe98ee0a0c01458710bf26d3
 运城一套新闻综合频道,http://live.0359tv.com/lsdream/ss4Lj11/live.m3u8
 运城二套公共频道,http://live.0359tv.com/lsdream/t667aTY/live.m3u8
 运城三套科教频道,http://live.0359tv.com/lsdream/p5eq48m/live.m3u8
