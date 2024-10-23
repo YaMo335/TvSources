@@ -22,7 +22,6 @@ CCTV女性时尚频道,http://111.61.236.247:9081/hls/59/index.m3u8
 扬州生活频道,http://cm-wshls.homecdn.com/live/8bf.m3u8
 扬州邗江频道,http://cm-wshls.homecdn.com/live/8c3.m3u8
 镇江新闻综合频道,http://cm-wshls.homecdn.com/live/2aa50.m3u8
-镇江二套社会民生频道,http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
 安徽影视频道,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8
 安徽经济生活频道,http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959/hls.m3u8
 安徽综艺体育频道,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
@@ -85,6 +84,8 @@ CCTV女性时尚频道,http://111.61.236.247:9081/hls/59/index.m3u8
 青州电视台新闻综合频道,http://sdqz.chinashadt.com:2036/live/stream:1.stream/playlist.m3u8
 青州电视台生活频道,http://sdqz.chinashadt.com:2036/live/stream:2.stream/playlist.m3u8
 青州电视台文化旅游频道,http://sdqz.chinashadt.com:2036/live/stream:3.stream/playlist.m3u8
+济宁新闻综合频道,http://lives.jnnews.tv/video/s10001-JNTV-1/index.m3u8
+济宁公共频道,http://lives.jnnews.tv/video/s10001-JNTV3/index.m3u8
 烟台公共频道,http://live.yantaitv.cn/live/e50f104a4ffe4a41b2217cbda534146f/d86092e69df94668b33390278b061700-1.m3u8
 烟台影视频道,http://live.yantaitv.cn/live/e9f1d9045d474c31884d13fa4ffbbd16/a4a9b3704d854756907845107cc56129-1.m3u8
 威海一套新闻综合频道,http://l1.weihai.tv:8081/hls/969O76hb22.m3u8
