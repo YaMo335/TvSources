@@ -2,7 +2,7 @@ name: self
 
 on:
   schedule:
-     -cron: '0 */1 * * *'  # 每1小时触发一次
+     cron: '0 */3 * * *'  # 每3小时触发一次
   workflow_dispatch:
 
 permissions:
