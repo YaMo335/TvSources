@@ -4,7 +4,7 @@
 
 ### 项目简介
 
-项目地址：[https://github.com/06yanm/TvSources](https://github.com/06yanm/TvSources)
+项目地址：https://github.com/YaMo335/TvSources/
 
 项目中的采集代码位于master分支下的code文件夹
 
