@@ -2,7 +2,7 @@
 import requests
 import difflib
 
-urls = ["https://m3u.ibert.me/txt/fmml_ipv6.txt"]
+urls = ["https://ghp.ci/https://raw.githubusercontent.com/YaMo335/TV/refs/heads/master/output/result.txt"]
 
 final = []
 
