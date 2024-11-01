@@ -42,22 +42,22 @@ def isSimilar(str1, str2, threshold=0.8):
 
 tvData = {
     "📺央视频道": [
-        "CCTV-1综合",
-        "CCTV-2财经",
-        "CCTV-3综艺",
-        "CCTV-4中文国际",
-        "CCTV-5体育",
-        "CCTV-5+体育赛事",
-        "CCTV-6电影",
-        "CCTV-7国防军事",
-        "CCTV-8电视剧",
-        "CCTV-9纪录",
-        "CCTV-10科教",
-        "CCTV-11戏曲",
-        "CCTV-12社会与法",
-        "CCTV-13新闻",
-        "CCTV-14少儿",
-        "CCTV-15音乐"
+        "CCTV-1",
+        "CCTV-2",
+        "CCTV-3",
+        "CCTV-4",
+        "CCTV-5",
+        "CCTV-5+",
+        "CCTV-6",
+        "CCTV-7",
+        "CCTV-8",
+        "CCTV-9",
+        "CCTV-10",
+        "CCTV-11",
+        "CCTV-12",
+        "CCTV-13",
+        "CCTV-14",
+        "CCTV-15"
     ],
     "📡卫视频道" : [
         "安徽卫视",
