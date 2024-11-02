@@ -2,7 +2,7 @@
 import requests
 import difflib
 
-urls = ["https://ghp.ci/https://raw.githubusercontent.com/YaMo335/TvSources/refs/heads/master/code/ipv4normal.txt"]
+urls = ["https://mirror.ghproxy.com/https://raw.githubusercontent.com/YaMo335/TV/refs/heads/master/output/result.txt"]
 
 final = []
 
