@@ -1,4 +1,5 @@
 CCTV-1,http://z.b.bkpcp.top/m.php?id=cctv1$订阅源-1920x1080
+CCTV-1,http://101.66.199.125:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源-1920x1080
 CCTV-2,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-2hd/2500.m3u8?innersid=18203640774999492907&amp$订阅源-1920x1080
 CCTV-2,http://z.b.bkpcp.top/m.php?id=cctv2$订阅源-1920x1080
 CCTV-3,http://z.b.bkpcp.top/m.php?id=cctv3$订阅源-1920x1080
@@ -30,6 +31,8 @@ CCTV-13,http://z.b.bkpcp.top/m.php?id=cctv13$订阅源-1920x1080
 CCTV-13,http://223.166.234.9:7777/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源-1920x1080
 CCTV-14,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-14hd/2500.m3u8?innersid=10749977474028640862$订阅源-1920x1080
 CCTV-14,http://z.b.bkpcp.top/m.php?id=cctv14$订阅源-1920x1080
+CCTV-14,http://39.134.136.161:6610/000000001000/1000000001000021973/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000021973$订阅源-1920x1080
+CCTV-14,http://39.134.136.161:6610/000000001000/5000000010000030810/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000030810$订阅源-1920x1080
 CCTV-15,http://z.b.bkpcp.top/m.php?id=cctv15$订阅源-1920x1080
 CCTV-15,http://223.166.234.9:7777/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源-1920x1080
 CCTV-16,http://223.166.234.9:7777/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源-1920x1080
@@ -54,7 +57,7 @@ CCTV-15,http://223.166.234.9:7777/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&
 东方卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/shdfws-hd/2500.m3u8?innersid=6998114529464369318$订阅源-1920x1080
 东方卫视,http://223.166.234.9:7777/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源-1920x1080
 湖南卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/hnws-hd/2500.m3u8?innersid=11355377224826061225$订阅源-1920x1080
-湖南卫视,http://39.134.136.161:6610/000000001000/6954818217931477266/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=6954818217931477266$订阅源-1920x1080
+湖南卫视,http://39.134.136.161:6610/000000001000/8655038471675748531/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=8655038471675748531$订阅源-1920x1080
 广东卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/gdws-hd/2500.m3u8?innersid=2310031483208039305$订阅源-1920x1080
 广东卫视,http://z.b.bkpcp.top/m.php?id=gdws$订阅源-1920x1080
 广东卫视,http://223.166.234.9:7777/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源-1920x1080
@@ -85,7 +88,6 @@ CCTV-15,http://223.166.234.9:7777/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&
 天津卫视,http://223.166.234.9:7777/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源-1920x1080
 天津卫视,http://223.166.234.9:7777/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源-1920x1080
 贵州卫视,http://223.166.234.9:7777/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源-1920x1080
-云南卫视,http://39.134.136.161:6610/000000001000/1000000002000024694/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000024694$订阅源-1920x1080
 广西卫视,http://223.166.234.9:7777/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源-1920x1080
 山西卫视,http://223.166.234.9:7777/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源-1920x1080
 内蒙古卫视,http://59.48.75.130:3052/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源-1920x1080
@@ -130,7 +132,6 @@ CCTV-15,http://223.166.234.9:7777/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&
 凤凰中文,http://117.27.190.42:9998/tsfile/live/23280_1.m3u8?$订阅源
 凤凰中文,http://117.27.190.42:9998/tsfile/live/23280_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 凤凰中文,http://117.27.190.42:9998/tsfile/live/23280_1.m3u8?key=txiptv$订阅源
-凤凰资讯,http://120.55.49.231:3095/rtp/233.50.200.192:5140$浙江电信组播源
 凤凰资讯,http://117.27.190.42:9998/tsfile/live/23279_1.m3u8?$订阅源
 凤凰资讯,http://117.27.190.42:9998/tsfile/live/23279_1.m3u8?key=txiptv$订阅源
 凤凰资讯,http://117.27.190.42:9998/tsfile/live/23279_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
@@ -185,13 +186,12 @@ CCTV-5+,http://221.2.148.205:8154/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$订阅源-1920x1080
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?$订阅源-1920x1080
 浙江少儿,https://ct-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$订阅源-1920x1080
-浙江少儿,http://120.55.49.231:3095/rtp/233.50.201.138:5140$浙江电信组播源
 浙江少儿,http://120.55.49.231:2693/rtp/233.50.201.138:5140$组播源
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$订阅源-1920x1080
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$订阅源-1920x1080
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?$订阅源-1920x1080
 浙江少儿,https://ct-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$订阅源-1920x1080
-浙江少儿,http://120.55.49.231:3095/rtp/233.50.201.138:5140$浙江电信组播源
+浙江少儿,http://120.55.49.231:2693/rtp/233.50.201.138:5140$组播源
 山东体育,http://124.128.73.58:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源-1920x1080
 山东体育,http://61.156.228.12:8154/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源-1920x1080
 山东体育,http://124.128.73.58:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源-1920x1080
