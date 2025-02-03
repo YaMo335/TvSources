@@ -28,6 +28,8 @@ CCTV-3,http://58.221.214.82:9901/tsfile/live/0003_1.m3u8
 CCTV-3,http://219.135.180.210:18888/hls/3/index.m3u8
 CCTV-4,http://z.b.bkpcp.top/m.php?id=cctv4o
 CCTV-4,http://goo.bkpcp.top/mg/cctv4
+CCTV-4,https://tvpull.careryun.com/tv/cctv4.m3u8
+CCTV-4,http://tvpull.careryun.com/tv/cctv4.m3u8
 CCTV-4,http://110.53.52.63:8888/newlive/live/hls/5/live.m3u8
 CCTV-4,http://123.154.154.150:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-4,http://123.182.60.29:9002/hls/4/index.m3u8
@@ -97,7 +99,6 @@ CCTV-11,http://goo.bkpcp.top/mg/cctv11
 CCTV-11,http://110.53.52.63:8888/newlive/live/hls/13/live.m3u8
 CCTV-11,http://123.182.60.29:9002/hls/11/index.m3u8
 CCTV-11,http://180.213.174.225:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-11,http://58.221.214.82:9901/tsfile/live/0011_1.m3u8
 CCTV-11,http://219.135.180.210:18888/hls/11/index.m3u8
 CCTV-11,http://202.100.46.58:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-12,http://z.b.bkpcp.top/m.php?id=cctv12
@@ -183,7 +184,6 @@ CCTV-15,http://202.100.46.58:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&
 河北卫视,http://36.32.174.67:60080/newlive/live/hls/36/live.m3u8
 河北卫视,http://111.61.236.247:9081/hls/17/index.m3u8
 河北卫视,http://120.55.49.231:3095/rtp/233.50.201.140:5140
-河北卫视,http://59.48.75.130:3052/tsfile/live/0136_1.m3u8
 山东卫视,http://110.53.52.63:8888/newlive/live/hls/29/live.m3u8
 山东卫视,http://123.154.154.150:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0
 山东卫视,http://58.221.214.82:9901/tsfile/live/0131_1.m3u8
@@ -222,6 +222,7 @@ CCTV-15,http://202.100.46.58:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&
 湖南卫视,http://180.213.174.225:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://202.100.46.58:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://61.138.128.226:19901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视,http://z.b.bkpcp.top/m.php?id=gdws
 广东卫视,http://tvpull.careryun.com/tv/gdws.m3u8
 广东卫视,http://110.53.52.63:8888/newlive/live/hls/20/live.m3u8
 广东卫视,http://123.154.154.150:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -229,6 +230,7 @@ CCTV-15,http://202.100.46.58:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&
 广东卫视,http://58.221.214.82:9901/tsfile/live/0125_1.m3u8
 广东卫视,http://202.100.46.58:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
 广东卫视,http://61.138.128.226:19901/tsfile/live/0125_1.m3u8
+广东卫视,http://z.b.bkpcp.top/m.php?id=gdws
 广东卫视,http://tvpull.careryun.com/tv/gdws.m3u8
 广东卫视,http://110.53.52.63:8888/newlive/live/hls/20/live.m3u8
 广东卫视,http://123.154.154.150:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -266,7 +268,6 @@ CCTV-15,http://202.100.46.58:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&
 黑龙江卫视,http://61.138.128.226:19901/tsfile/live/0143_1.m3u8
 黑龙江卫视,http://111.61.236.247:9081/hls/34/index.m3u8
 黑龙江卫视,http://219.145.93.74:9999/tsfile/live/1009_1.m3u8
-黑龙江卫视,http://120.55.49.231:3095/rtp/233.50.201.115:5140
 辽宁卫视,http://110.53.52.63:8888/newlive/live/hls/46/live.m3u8
 辽宁卫视,http://123.154.154.150:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0
 辽宁卫视,http://180.213.174.225:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -345,6 +346,7 @@ CCTV-15,http://202.100.46.58:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&
 云南卫视,http://61.138.128.226:19901/tsfile/live/0119_1.m3u8
 云南卫视,https://hwapi.yntv.net/62hdvf/41hse3.m3u8
 云南卫视,http://36.32.174.67:60080/newlive/live/hls/45/live.m3u8
+云南卫视,http://222.169.85.8:9901/tsfile/live/0119_1.m3u8
 云南卫视,http://111.61.236.247:9081/hls/32/index.m3u8
 广西卫视,http://tvpull.careryun.com/tv/cn_gxws.m3u8
 广西卫视,http://110.53.52.63:8888/newlive/live/hls/25/live.m3u8
@@ -355,7 +357,6 @@ CCTV-15,http://202.100.46.58:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&
 广西卫视,http://222.169.85.8:9901/tsfile/live/0113_1.m3u8
 广西卫视,http://116.9.204.242:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
 广西卫视,http://111.61.236.247:9081/hls/44/index.m3u8
-广西卫视,http://120.55.49.231:3095/rtp/233.50.201.49:5140
 山西卫视,http://110.53.52.63:8888/newlive/live/hls/43/live.m3u8
 山西卫视,http://58.221.214.82:9901/tsfile/live/0017_1.m3u8
 山西卫视,http://61.138.128.226:19901/tsfile/live/0118_1.m3u8
@@ -381,6 +382,7 @@ CCTV-15,http://202.100.46.58:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&
 宁夏卫视,http://36.32.174.67:60080/newlive/live/hls/49/live.m3u8
 宁夏卫视,http://222.169.85.8:9901/tsfile/live/0112_1.m3u8
 宁夏卫视,http://111.61.236.247:9081/hls/51/index.m3u8
+宁夏卫视,http://120.55.49.231:3095/rtp/233.50.201.57:5140
 甘肃卫视,http://tvpull.careryun.com/tv/cn_gsws.m3u8
 甘肃卫视,http://110.53.52.63:8888/newlive/live/hls/35/live.m3u8
 甘肃卫视,http://123.154.154.150:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -399,7 +401,6 @@ CCTV-15,http://202.100.46.58:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&
 新疆卫视,http://110.53.52.63:8888/newlive/live/hls/37/live.m3u8
 新疆卫视,http://61.138.128.226:19901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
 新疆卫视,http://36.32.174.67:60080/newlive/live/hls/47/live.m3u8
-新疆卫视,http://222.169.85.8:9901/tsfile/live/0110_1.m3u8
 新疆卫视,http://111.61.236.247:9081/hls/53/index.m3u8
 新疆卫视,http://106.124.91.222:9901/tsfile/live/21212_1.m3u8
 新疆卫视,http://61.156.228.12:8154/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -416,17 +417,18 @@ CCTV-15,http://202.100.46.58:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&
 西藏卫视,http://61.138.128.226:19901/tsfile/live/0111_1.m3u8
 西藏卫视,http://36.32.174.67:60080/newlive/live/hls/48/live.m3u8
 西藏卫视,http://111.61.236.247:9081/hls/52/index.m3u8
+西藏卫视,http://120.55.49.231:3095/rtp/233.50.201.70:5140
 西藏卫视,http://121.33.239.242:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
 西藏卫视,http://183.11.239.36:808/hls/64/index.m3u8
 金鹰卡通,http://110.53.52.63:8888/newlive/live/hls/49/live.m3u8
 金鹰卡通,http://123.154.154.150:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
 金鹰卡通,http://61.138.128.226:19901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰卡通,http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-5.m3u8
-金鹰卡通,http://120.55.49.231:3095/rtp/233.50.201.73:5140
 金鹰卡通,http://121.33.239.242:9901/tsfile/live/38727_1.m3u8
 金鹰卡通,http://58.19.43.46:9901/tsfile/live/1000_1.m3u8
 金鹰卡通,http://183.11.239.36:808/hls/69/index.m3u8
 金鹰卡通,http://121.19.134.222:808/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视,http://z.b.bkpcp.top/m.php?id=gdws
 广东卫视,http://tvpull.careryun.com/tv/gdws.m3u8
 广东卫视,http://110.53.52.63:8888/newlive/live/hls/20/live.m3u8
 广东卫视,http://123.154.154.150:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -434,6 +436,7 @@ CCTV-15,http://202.100.46.58:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&
 广东卫视,http://58.221.214.82:9901/tsfile/live/0125_1.m3u8
 广东卫视,http://202.100.46.58:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
 广东卫视,http://61.138.128.226:19901/tsfile/live/0125_1.m3u8
+广东卫视,http://z.b.bkpcp.top/m.php?id=gdws
 广东卫视,http://tvpull.careryun.com/tv/gdws.m3u8
 广东卫视,http://110.53.52.63:8888/newlive/live/hls/20/live.m3u8
 广东卫视,http://123.154.154.150:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -490,6 +493,7 @@ CCTV-15,http://202.100.46.58:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&
 凤凰资讯,http://61.221.215.25:8800/hls/47/index.m3u8
 凤凰资讯,http://120.55.49.231:3095/rtp/233.50.200.192:5140
 凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
+凤凰香港,http://50.7.234.10:8278/hkphoenix_twn/playlist.m3u8?tid=MACA2858291128582911&ct=19225&tsum=0f01288bbaa6c0403d07e96b0a5db4ed
 凤凰卫视,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
 凤凰卫视,https://k44991.kylintv.tv/live/pxna_iphone.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
@@ -562,7 +566,6 @@ CCTV-5+,http://61.138.128.226:19901/tsfile/live/1006_1.m3u8
 金鹰卡通,http://123.154.154.150:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
 金鹰卡通,http://61.138.128.226:19901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰卡通,http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-5.m3u8
-金鹰卡通,http://120.55.49.231:3095/rtp/233.50.201.73:5140
 金鹰卡通,http://121.33.239.242:9901/tsfile/live/38727_1.m3u8
 金鹰卡通,http://58.19.43.46:9901/tsfile/live/1000_1.m3u8
 金鹰卡通,http://183.11.239.36:808/hls/69/index.m3u8
